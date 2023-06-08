@@ -5159,6 +5159,10 @@ fieldset:disabled .btn {
   border-radius: var(--bs-card-border-radius);
 }
 
+.my-card {
+  background-color: #b8f4ff;
+}
+
 .card>hr {
   margin-right: 0;
   margin-left: 0;
